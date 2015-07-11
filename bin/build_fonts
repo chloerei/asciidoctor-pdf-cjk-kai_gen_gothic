@@ -1,0 +1,13 @@
+#!/bin/bash
+
+mkdir tmp
+cd tmp
+#wget https://github.com/akiratw/kaigen-gothic/releases/download/v1.002.20150501/KaiGenGothicCN-1.002.20150501.zip
+#unzip KaiGenGothicCN-1.002.20150501.zip
+../bin/convert_italic.pe KaiGenGothicCN-Regular.ttf
+../bin/convert_italic.pe KaiGenGothicCN-Bold.ttf
+
+cp KaiGenGothicCN-Regular.ttf ../data/fonts
+cp KaiGenGothicCN-Regular-Italic.ttf ../data/fonts
+cp KaiGenGothicCN-Bold.ttf ../data/fonts
+cp KaiGenGothicCN-Bold-Italic.ttf ../data/fonts
