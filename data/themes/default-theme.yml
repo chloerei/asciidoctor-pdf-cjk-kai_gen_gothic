@@ -1,20 +1,15 @@
 font:
   catalog:
-    Roboto:
-      normal: Roboto-Regular.ttf
-      bold: Roboto-Bold.ttf
-      italic: Roboto-Italic.ttf
-      bold_italic: Roboto-BoldItalic.ttf
-    Roboto Mono:
-      normal: RobotoMono-Regular.ttf
-      bold: RobotoMono-Bold.ttf
-      italic: RobotoMono-Italic.ttf
-      bold_italic: RobotoMono-BoldItalic.ttf
     KaiGen Gothic CN:
       normal: KaiGenGothicCN-Regular.ttf
       bold: KaiGenGothicCN-Bold.ttf
       italic: KaiGenGothicCN-Regular-Italic.ttf
       bold_italic: KaiGenGothicCN-Bold-Italic.ttf
+    Roboto Mono:
+      normal: RobotoMono-Regular.ttf
+      bold: RobotoMono-Bold.ttf
+      italic: RobotoMono-Italic.ttf
+      bold_italic: RobotoMono-BoldItalic.ttf
   fallbacks:
     - KaiGen Gothic CN
 page:
@@ -33,7 +28,7 @@ base:
   # color as CMYK array (approximated)
   #font_color: [0, 0, 0, 0.92]
   #font_color: [0, 0, 0, 92%]
-  font_family: Roboto
+  font_family: KaiGen Gothic CN
   # choose one of these font_size/line_height_length combinations
   #font_size: 14
   #line_height_length: 20
