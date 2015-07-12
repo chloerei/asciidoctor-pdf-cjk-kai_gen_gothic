@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
 ======================
 
-Run this command to download required fonts:"
+Run this command to download required fonts:
 
     $ asciidoctor-pdf-cjk-kai_gen_gothic-install
 
