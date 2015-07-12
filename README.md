@@ -46,4 +46,4 @@ Fonts:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/asciidoctor-pdf-cjk-kai_gen_gothic.
+Bug reports and pull requests are welcome on GitHub at https://github.com/chloerei/asciidoctor-pdf-cjk-kai_gen_gothic.
