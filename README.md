@@ -30,7 +30,7 @@ Render PDF:
 
 Available themes:
 
-- KaiGenGothicCn
+- KaiGenGothicCN
 - KaiGenGothicJP
 - KaiGenGothicKR
 - KaiGenGothicTW
