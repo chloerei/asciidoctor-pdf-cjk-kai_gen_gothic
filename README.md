@@ -26,7 +26,7 @@ And download fonts after installed gem:
 
 Render PDF:
 
-    $ asciidoctor-pdf -r asciidoctor-pdf-cjk-kai_gen_gothic -a pdf-style=[THEME] doc.asc
+    $ asciidoctor-pdf -r asciidoctor-pdf-cjk-kai_gen_gothic -a pdf-style=THEME doc.asc
 
 Available themes:
 
