@@ -1,4 +1,4 @@
-# Asciidoctor::Pdf::CJK::KaiGenGothicCn
+# Asciidoctor::Pdf::CJK::KaiGenGothic
 
 A Asciidoctor PDF theme, using font [KaiGen Gothic](https://github.com/akiratw/kaigen-gothic). Include CN/JP/KR/TW glyphs.
 
@@ -46,4 +46,4 @@ Fonts:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/asciidoctor-pdf-cjk-kai_gen_gothic_cn.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/asciidoctor-pdf-cjk-kai_gen_gothic.
