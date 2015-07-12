@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'asciidoctor/pdf/cjk/kai_gen_gothic_cn/version'
+require 'asciidoctor/pdf/cjk/kai_gen_gothic/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "asciidoctor-pdf-cjk-kai_gen_gothic_cn"
-  spec.version       = Asciidoctor::Pdf::CJK::KaiGenGothicCN::VERSION
+  spec.name          = "asciidoctor-pdf-cjk-kai_gen_gothic"
+  spec.version       = Asciidoctor::Pdf::CJK::KaiGenGothic::VERSION
   spec.authors       = ["Rei"]
   spec.email         = ["chloerei@gmail.com"]
 

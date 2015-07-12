@@ -1,7 +1,7 @@
 module Asciidoctor
   module Pdf
     module CJK
-      module KaiGenGothicCN
+      module KaiGenGothic
         VERSION = "0.0.0"
       end
     end
