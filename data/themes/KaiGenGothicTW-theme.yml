@@ -47,7 +47,7 @@ base:
   font_size_small: round($base_font_size * 0.85)
   font_size_min: $base_font_size * 0.75
   font_style: normal
-  align: justify
+  align: left
   border_radius: 4
   border_width: 0.5
   border_color: eeeeee
