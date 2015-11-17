@@ -4,21 +4,21 @@ A Asciidoctor PDF theme, using font [KaiGen Gothic](https://github.com/akiratw/k
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add to Gemfile:
 
 ```ruby
 gem 'asciidoctor-pdf-cjk-kai_gen_gothic', '~> 0.1.1'
 ```
 
-And then execute:
+then execute:
 
     $ bundle
 
-Or install it yourself as:
+or:
 
     $ gem install asciidoctor-pdf-cjk-kai_gen_gothic
 
-And download fonts after installed gem:
+Download fonts:
 
     $ asciidoctor-pdf-cjk-kai_gen_gothic-install
 
