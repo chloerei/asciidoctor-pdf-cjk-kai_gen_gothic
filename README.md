@@ -2,6 +2,12 @@
 
 A Asciidoctor PDF theme, using font [KaiGen Gothic](https://github.com/akiratw/kaigen-gothic). Include CN/JP/KR/TW glyphs.
 
+> **Warning**
+> 
+> Sorry, This gem is no longer maintained, I suggest follow the asciidoctor-pdf theme guides to use your local font.
+> 
+> https://github.com/asciidoctor/asciidoctor-pdf/blob/v1.5.0.beta.7/docs/theming-guide.adoc#custom-fonts
+
 ## Installation
 
 Add to Gemfile:
