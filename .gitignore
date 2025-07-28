@@ -8,3 +8,4 @@
 /spec/reports/
 /tmp/
 /data/fonts/*.ttf
+*.gem
